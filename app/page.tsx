@@ -41,7 +41,7 @@ export default function ComingSoon() {
 
       <div className="relative z-10 container mx-auto px-4 text-center text-[#000C41]/90 bg-white/20 backdrop-blur-sm rounded-2xl p-14 max-w-4xl">
         <motion.div className="space-y-6" variants={fadeIn}>
-          <h1 className="text-4xl md:text-6xl font-bold mb-6">
+          <h1 className="text-4xl md:text-6xl font-extrabold mb-6">
             <div>Coming Soon</div>
             <div className="mt-4">Something Great Awaits</div>
           </h1>
